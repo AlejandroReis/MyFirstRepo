@@ -1,3 +1,3 @@
 # MyFirstRepo
-This is my first repository
+This is my first repository,
 What should I do?
